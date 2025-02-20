@@ -1,6 +1,7 @@
 import Link from "next/link";
+import { useState } from "react";
 
-export default function Cadastro() {
+export default function cadastro() {
     return (
         <div className="bg-slate-100 h-screen flex items-center justify-center">
             <div className="h-full flex flex-col items-center justify-center gap-4">
