@@ -47,7 +47,7 @@ export default function Home() {
         <img src="./image/logo2.svg" alt="Logo Kiwify" className="w-40" />
 
         <div className="flex flex-col items-center">
-          <h2 className="text-3xl font-extrabold mb:mb-0 mb-3">Entrar na sua conta</h2>
+          <h2 className="text-3xl font-extrabold mb:mb-0 mb-3">Entrar na sua conta </h2>
 
           <div className="flex gap-1">
 

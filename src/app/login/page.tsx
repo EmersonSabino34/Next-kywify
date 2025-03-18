@@ -43,7 +43,7 @@ export default function login() {
        <div className="w-1/5 h-1/2 flex flex-col items-center gap-4">
         <img src="./image/logo2.svg" alt="Logo kiwify" className="w-40" />
         <div className="flex flex-col items-center">
-          <h2 className="text-3xl font-extrabold mb:mb-0 mb-03">Entar na sua conta</h2>
+          <h2 className="text-3xl font-extrabold mb:mb-0 mb-03">Entar na sua conta 22222</h2>
           <div className="flex gap-01">
             <h1>Ou</h1>
             <Link href="/cadastro">
