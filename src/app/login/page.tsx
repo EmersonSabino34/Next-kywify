@@ -35,34 +35,24 @@ export default function login() {
      setBtnEntrar("bg-blue-700")
      setTextPassword("hidden")
 
-
-      alert("Bem-vindo")
-    }
+     alert("Bem-vindo")
+  }
 
     return(
       <div className={` ${container} w-screen h-screen flex items-center justify-center`}>
-
        <div className="w-1/5 h-1/2 flex flex-col items-center gap-4">
-
         <img src="./image/logo2.svg" alt="Logo kiwify" className="w-40" />
-
         <div className="flex flex-col items-center">
           <h2 className="text-3xl font-extrabold mb:mb-0 mb-03">Entar na sua conta</h2>
-
           <div className="flex gap-01">
-
             <h1>Ou</h1>
             <Link href="/cadastro">
               <p className="text-blue-700 font-semibold cursor-pointer">fazer cadastro</p>
             </Link>
-
         </div>
       </div>
-
       <div className="bg-white rounded-md h-auto flex flex-col items-center gap-4">
-
         <form className="flex gap-3 flex-col w-80 m-4">
-
           <div>
             <label htmlFor="email" className="text-sm font-semibold">E-mail</label>
             <input
@@ -70,7 +60,6 @@ export default function login() {
               type="email" name="email" className="w-80 border-2 p-2 rounded-md" />
             <p className={`text-red-700 ${textEmail}`}>por favor preencher o campo E-mail</p>
           </div>
-
           <div>
             <label htmlFor="password" className="text-sm font-semibold">Senha</label>
             <input 
@@ -78,20 +67,13 @@ export default function login() {
               type="password" name="password" className="w-80 p-2 border-2 rounded-md" />
                <p className={`text-red-500 ${textpassword}`} >Por favor preencher o campo Password</p>
           </div>
-
           <Link href="/redefinir">
            <p className="text-right mt-5 mb-5 text-blue-700 font-semibold cursor-pointer">Esqueceu sua senha?</p>
           </Link>
-
           <button onClick={handleEntar} className={` ${btnEntrar} w-80 mb-5 p-2 text-white text-sm rounded-md font-semibold cursor-pointer`}>Entar</button>
-
         </form>
       </div>
     </div>
    </div>
     );
   }
-
-
-
-
