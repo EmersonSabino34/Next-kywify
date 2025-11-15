@@ -1,10 +1,10 @@
 ### Como ficou o projeto!
 
 ### Atualizações
-* > [ ] melhroar interface
-* > [ ] validar os campos
-* > [ ] controle de estados do css
-* > [ ] textos com controles de mesagens em em baixo
+* > [x] melhroar interface
+* > [x] validar os campos
+* > [x] controle de estados do css
+* > [x] textos com controles de mesagens em em baixo
 
 ### Tela de Login
 
