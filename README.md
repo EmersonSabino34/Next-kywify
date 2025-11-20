@@ -1,3 +1,7 @@
+### Projeto Next
+* TailwindCSS
+* TypeScript
+
 ### Como ficou o projeto!
 
 ### Atualizações
