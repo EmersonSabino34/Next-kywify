@@ -62,7 +62,6 @@ export default function cadastro() {
 
                     </form>
 
-
                 </div>
             </div>
         </div>
