@@ -59,7 +59,6 @@ export default function cadastro() {
                                 Criar conta
                             </button>
                         </Link>
-
                     </form>
 
                 </div>
