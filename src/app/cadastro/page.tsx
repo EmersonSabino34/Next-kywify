@@ -10,7 +10,6 @@ export default function cadastro() {
                 <div className="flex flex-col items-center">
                     <h2 className="text-3xl font-extrabold">Criar nova conta</h2>
                     <div className="flex gap-1">
-
                         <h1>Ou</h1>
                         <Link href="/">
                             <p className="text-blue-700 font-semibold cursor-pointer">entrar na sua conta existente</p>
