@@ -2,6 +2,7 @@ import Link from "next/link";
 
 export default function cadastro() {
     return (
+        
         <div className="bg-slate-100 h-screen flex items-center justify-center">
             <div className="h-full flex flex-col items-center justify-center gap-4">
                 <img src="./image/logo2.svg" alt="Logo Kiwify" className="w-40" />
