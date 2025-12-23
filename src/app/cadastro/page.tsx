@@ -16,7 +16,6 @@ export default function cadastro() {
                         <Link href="/">
                             <p className="text-blue-700 font-semibold cursor-pointer">entrar na sua conta existente</p>
                         </Link>
-
                     </div>
                 </div>
 
