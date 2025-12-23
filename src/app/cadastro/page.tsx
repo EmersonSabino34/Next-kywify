@@ -40,7 +40,6 @@ export default function cadastro() {
 
                         <div className="flex flex-col">
                             <label htmlFor="password" className="text-sm font-semibold">Pais</label>
-
                             <select className="border-2 p-2 rounded-md mb-3">
                                 <option>Brasil</option>
                                 <option>Estados Unidos</option>
