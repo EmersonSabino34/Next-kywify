@@ -15,7 +15,6 @@ export default function cadastro() {
                         </Link>
                     </div>
                 </div>
-
                 
                 <div className="bg-white rounded-md h-[498px] w-96 flex flex-col items-center gap-4 border-2">
 
