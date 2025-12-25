@@ -17,7 +17,6 @@ export default function cadastro() {
                 </div>
                 
                 <div className="bg-white rounded-md h-[498px] w-96 flex flex-col items-center gap-4 border-2">
-
                     <form className=" flex flex-col w-96 m-4 h-[350px] gap-2 p-5">
 
                         <div className="row">
