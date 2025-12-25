@@ -18,7 +18,6 @@ export default function cadastro() {
                 
                 <div className="bg-white rounded-md h-[498px] w-96 flex flex-col items-center gap-4 border-2">
                     <form className=" flex flex-col w-96 m-4 h-[350px] gap-2 p-5">
-
                         <div className="row">
                             <label htmlFor="email" className="text-sm font-semibold">E-mail</label>
                             <input type="email" name="email" className="w-full border-2 rounded-md mb-3 p-2 outline-none" />
