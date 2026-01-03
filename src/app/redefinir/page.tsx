@@ -6,7 +6,6 @@ export default function Redefinir() {
   // container
 
   // função
-
   return (
     <div className="bg-slate-100 w-screen h-screen flex items-center justify-center">
       <div className="w-1/5 h-1/2 flex flex-col items-center gap-4">
