@@ -60,7 +60,6 @@ export default function Home() {
         </div>
 
         <div className="bg-white rounded-md h-auto flex flex-col items-center gap-4">
-
           <form className=" flex gap-3 flex-col w-80 m-4">
             
             <div>
