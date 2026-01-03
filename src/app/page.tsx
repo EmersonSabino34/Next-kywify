@@ -50,7 +50,6 @@ export default function Home() {
           <h2 className="text-3xl font-extrabold mb:mb-0 mb-3">Entrar na sua conta </h2>
 
           <div className="flex gap-1">
-
             <h1>Ou</h1>
             <Link href="/cadastro">
               <p className="text-blue-700 font-semibold cursor-pointer">fazer cadastro</p>
