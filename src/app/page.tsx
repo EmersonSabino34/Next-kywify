@@ -84,7 +84,6 @@ export default function Home() {
             <button onClick={handleEntrar} className={` ${btnEntrar} w-80 mb-5 p-2 text-white text-sm rounded-md font-semibold cursor-pointer `}>Entrar</button>
                
           </form>
-
         </div>
 
       </div>
