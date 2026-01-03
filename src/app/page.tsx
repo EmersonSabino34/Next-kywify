@@ -81,8 +81,7 @@ export default function Home() {
               <p className="text-right mt-5 mb-5 text-blue-700 font-semibold cursor-pointer">Esqueceu sua senha?</p>
             </Link>
           
-            <button onClick={handleEntrar} className={` ${btnEntrar} w-80 mb-5 p-2 text-white text-sm rounded-md font-semibold cursor-pointer `}>Entrar</button>
-        
+            <button onClick={handleEntrar} className={` ${btnEntrar} w-80 mb-5 p-2 text-white text-sm rounded-md font-semibold cursor-pointer `}>Entrar</button> 
           </form>
         </div>
 
