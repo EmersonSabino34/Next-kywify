@@ -20,7 +20,7 @@ export default function Redefinir() {
           <form className=" flex flex-col w-80 m-4 gap-1">
             <label htmlFor="email" className="text-sm font-semibold">E-mail</label>
             <input type="email" name="email" className="w-80 border-2 rounded-md" />
-            
+        
           </form>
             <button className="bg-blue-700 w-80 h-8 text-white text-sm rounded-md font-semibold cursor-pointer">Redefinir senha</button>
         </div>
