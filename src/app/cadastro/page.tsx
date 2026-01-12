@@ -14,8 +14,7 @@ export default function cadastro() {
                             <p className="text-blue-700 font-semibold cursor-pointer">entrar na sua conta existente</p>
                         </Link>
                     </div>
-                </div>
-                
+                </div>    
                 <div className="bg-white rounded-md h-[498px] w-96 flex flex-col items-center gap-4 border-2">
                     <form className=" flex flex-col w-96 m-4 h-[350px] gap-2 p-5">
                         <div className="row">
