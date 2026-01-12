@@ -49,6 +49,7 @@ export default function login()
             <Link href="/cadastro">
               <p className="text-blue-700 font-semibold cursor-pointer">fazer cadastro</p>
             </Link>
+
         </div>
       </div>
       <div className="bg-white rounded-md h-auto flex flex-col items-center gap-4">
