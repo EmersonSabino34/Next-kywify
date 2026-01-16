@@ -5,7 +5,6 @@ export default function cadastro() {
         <div className="bg-slate-100 h-screen flex items-center justify-center">
             <div className="h-full flex flex-col items-center justify-center gap-4">
                 <img src="./image/logo2.svg" alt="Logo Kiwify" className="w-40" />
-
                 <div className="flex flex-col items-center">
                     <h2 className="text-3xl font-extrabold">Criar nova conta</h2>
                     <div className="flex gap-1">
