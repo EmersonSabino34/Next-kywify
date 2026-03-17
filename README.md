@@ -1,4 +1,5 @@
 ### Projeto Next
+
 * TailwindCSS
 * TypeScript
 
