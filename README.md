@@ -4,6 +4,7 @@
 * TailwindCSS
 * TypeScript
 
+
 ### Como ficou o projeto!
 
 ### Atualizações
