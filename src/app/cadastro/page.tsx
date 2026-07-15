@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-
 export default function cadastro() {
     return (     
         <div className="bg-slate-100 h-screen flex items-center justify-center">
