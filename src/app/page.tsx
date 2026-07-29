@@ -13,7 +13,6 @@ export default function Home() {
   const [btnEntrar, setBtnEntrar] = useState("bg-blue-700")
   const [container, setContainer] = useState("bg-slate-100")
   
-
   function handleEntrar(e: any){
     e.preventDefault()
 
