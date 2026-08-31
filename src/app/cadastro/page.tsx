@@ -23,7 +23,6 @@ export default function cadastro() {
                             <label htmlFor="email" className="text-sm font-semibold">E-mail</label>
                             <input type="email" name="email" className="w-full border-2 rounded-md mb-3 p-2 outline-none" />
                         </div>
-
                         <div className="row">
                             <label htmlFor="email" className="text-sm font-semibold">Repetir e-mail</label>
                             <input type="email" name="email" className="w-full border-2 rounded-md mb-3 p-2 outline-none" />
