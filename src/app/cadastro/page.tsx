@@ -42,7 +42,6 @@ export default function cadastro() {
                                 <option>Japão</option>
                             </select>
                         </div>
-
                         <div className="flex gap-2 items-start justify-center">
                             <input className="" type="checkbox" />
                             <label className="text-xs mb-3 font-semibold"> Eu li e aceito os
