@@ -51,7 +51,6 @@ export default function cadastro() {
                                 <Link href="https://kiwify.com.br/politica-de-conteudo/" className="border-b-2 pr-2 pl-2">política de conteúdo</Link> da Kiwify
                             </label>
                         </div>
-
                         <Link href="/" >
                             <button className="bg-blue-700 w-full h-8 text-white text-sm rounded-md font-semibold cursor-pointer">
                                 Criar conta
