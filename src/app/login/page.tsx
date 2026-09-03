@@ -16,6 +16,7 @@ export default function login()
   function handleEntar(e: any){
     e.preventDefault()
 
+
     if(email ===""){
       setTextEmail("block")
       setBtnEntrar("bg-red-700")
